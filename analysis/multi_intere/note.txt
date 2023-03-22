@@ -1,0 +1,44 @@
+【book】
+231,427/367,982 books have cate  (62.89%)
+cate:1-590类（1:None）
+
+
+default_1_597104.csv : 经典4兴趣
+default_3_592243.csv ：表示2,4零碎，但语义在整体有联系(1,3的标签也碎)
+
+
+
+defualt_0:  intere_num : 13     
+defualt_1:  intere_num : 10 
+defualt_2:  intere_num : 22      
+defualt_3： intere_num : 10
+defualt_4： intere_num : 4
+defualt_5： intere_num : 6
+defualt_6： intere_num : 7
+defualt_7： intere_num : 4
+defualt_8： intere_num : 4
+defualt_9： intere_num : 20
+defualt_10：intere_num : 8
+defualt_11：intere_num : 5
+
+
+
+
+
+
+【taobao】
+1,672,831/1,708,530 books have cate  (97.91%)
+
+
+
+【book14类别信息】
+
+367,982本图书，其中231,427本图书有类别标签(63%)
+
+每种类型图书本身数量的差异！
+
+
+更多组实验结果
+
+图书本身的标签，不够细化
+（删去一些intere, 指标下降：证明比原始的类别标签好？）
